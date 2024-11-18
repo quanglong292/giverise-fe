@@ -1,5 +1,5 @@
 <template>
-  <div>View Tables</div>
+  <div>View Invitees</div>
 </template>
 
 <script setup lang="ts"></script>
